@@ -3,6 +3,7 @@ function fooBar() {
 
     while (counter < 10) {
         const THEBESTCAKE = "cheese cake";
+        console.log("hi");
         console.log("count is " + counter);
         counter += 2;
     }
